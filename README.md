@@ -15,7 +15,9 @@ All Customer table have basic fields such as Name, Email, Account Number and Cur
 Transaction table records all transfers happened along with their time. 
 
 Flow of the Website:
+
 Home Page > View All Customers > Send Money > Write Amount and Reciever Account Number > Transfer > Transactions.
 
 For Contact Us:
+
 Contact Us > Write Name, Email and Message > Submit
