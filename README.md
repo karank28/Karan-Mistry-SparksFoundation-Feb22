@@ -4,11 +4,11 @@ A Web Application used to transfer money between multiple users.
 
 Stack used - 
 
-Front-end : HTML, CSS, Bootstrap & Javascript 
+Front-end : HTML, CSS, Bootstrap & Javascript | Back-end : PHP Database : MySQL
 
-Back-end : PHP Database : MySQL
+Database contains three Tables- Customers, Transactios and Contact Us.
 
-Database contains three Tables- Customers, Transactios and Contact Us
+Customer can also check balance by enter account number.
 
 All Customer table have basic fields such as Name, Email, Account Number and Current balance. 
 
